@@ -1,10 +1,10 @@
-# Pixel-Walker-Bot-Template
+# PixelWalker-Bot-Template
 
 Template project, to kickstart bot development for [PixelWalker](https://pixelwalker.net)
 
 This relies on Doomester's [pw-js-api](https://www.npmjs.com/package/pw-js-api) and [pw-js-world](https://www.npmjs.com/package/pw-js-world) libraries.
 
-This template is based on [Pixel-Walker-Copy-Bot](https://github.com/Piratux/Pixel-Walker-Copy-Bot). So you can check it for advanced usages.
+This template is based on [PixelWalker-Copy-Bot](https://github.com/Piratux/PixelWalker-Copy-Bot). So you can check it for advanced usages.
 
 ## Technology stack
 Typescript, Vite, Vue.
@@ -24,7 +24,7 @@ npm run dev
 ```
 
 Then open up this:\
-http://localhost:3000/Pixel-Walker-Bot-Template/
+http://localhost:3000/PixelWalker-Bot-Template/
 
 Vite supports HMR (Hot Module Replacement) out of box, which means you can make code changes, and changes will be
 reflected live.
@@ -60,12 +60,12 @@ npm run preview
 ```
 
 Then open up this:\
-http://localhost:4173/Pixel-Walker-Bot-Template/
+http://localhost:4173/PixelWalker-Bot-Template/
 
 Vite's HMR won't work for production build, so you need to run build and preview commands when you make code changes.
 
 ## Changing project name
-To change the name of project once you fork it, search for `Pixel-Walker-Bot-Template` occurences in project and replace them with your desired name.
+To change the name of project once you fork it, search for `PixelWalker-Bot-Template` occurences in project and replace them with your desired name.
 
 ## Publishing your bot
 Once you have your project ready, it's trivial to deploy it to github pages. This allows others to see and use what you made without worrying about deployment. 

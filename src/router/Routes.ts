@@ -1,4 +1,4 @@
-const basePath = '/Pixel-Walker-Bot-Template'
+const basePath = '/PixelWalker-Bot-Template'
 
 export const LoginViewRoute = {
   path: `${basePath}/login`,
