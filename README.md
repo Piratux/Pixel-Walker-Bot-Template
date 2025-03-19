@@ -1,6 +1,6 @@
 # Pixel-Walker-Bot-Template
 
-This is a template project, to kickstart bot development for [PixelWalker](https://pixelwalker.net)
+Template project, to kickstart bot development for [PixelWalker](https://pixelwalker.net)
 
 This relies on Doomester's [pw-js-api](https://www.npmjs.com/package/pw-js-api) and [pw-js-world](https://www.npmjs.com/package/pw-js-world) libraries.
 
